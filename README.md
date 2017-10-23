@@ -27,7 +27,7 @@ Foi apresentado o conceito e aplicação de análise de correlação, com o uso 
 
 * Exemplo de aplicação do algoritmo kNN (para classificação)
 
-Foi ensinado o conceito e a aplicação, por meio de exemplo prático, do uso do K-Nearest Neighbor (kNN).
+Foi ensinado o conceito e a aplicação, por meio de exemplo prático, utilizando o K-Nearest Neighbor (kNN).
 
 * Extra
 
